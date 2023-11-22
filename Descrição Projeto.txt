@@ -1,0 +1,67 @@
+ 1. Selecione o nome do médico e a quantidade de exames realizados pelo médico, agrupando os dados pelo tipo de exame realizado. Além disso, ordene os resultados de acordo com o maior número de exames. ex:
+	MEDICO 		| TIPO_EXAME  | QUANTIDADE_EXAMES
+     Dr. Fulano		| Ultrasoom X | 44
+     Dr. Beltrano	| Ultrasoom X | 20
+     Dr. Fulano		| Ultrasoom Y | 18
+     Dr. Cicrano	| Ultrasoom X | 6
+
+2. Selecione o tipo de especialidade e a respectiva quantidade de consultas realizadas, ordenando pela quantidade de consultas de forma decrescente. Além disso, traga apenas as 10 especialidades com mais consultas, ex:
+	ESPECIALIDADE		| QUANTIDADE_CONSULTAS
+    Otorrino			| 814
+    Pediatria			| 520
+    Oftalmo			| 114
+	...
+
+3. Selecione o nome e a cidade do paciente com a maior quantidade de exames realizados, ex:
+	PACIENTE	| CIDADE
+     Joãozinho		| Ribeirão
+
+4. Selecione o nome do médico e a quantidade de atendimentos que foram cancelados pelo profissional. Ordene pela quantidade de atendimentos cancelados e traga apenas os médicos com mais de 10 atendimentos cancelados, ex:
+	MÉDICO		| QUANTIDADE	
+   Dr. Fulano		| 110
+   Dr. Beltrano		| 84
+   Dr. Cicrano		| 14
+	
+5. Selecione o nome do medicamento, o nome do paciente e a quantidade de medicamentos desse tipo que foram entregues ao paciente no ano de 2023, ex:
+	MEDICAMENTO	| PACIENTE	| QUANTIDADE
+    Dipirona		| João		| 8
+    Dipirona		| Maria		| 19
+    Sorine		| José		| 13
+
+6. Selecione a cidade com mais pacientes atendidos, ex:
+	| CIDADE |
+	 Palmares
+
+7. Selecione o nome da cidade e a quantidade de atendimentos a domicilio que ocorreram nessa cidade, agrupados por especialidade. Ordene os resultados pela quantidade de atendimentos e pelo nome da cidade, ex:
+	CIDADE		| QUANTIDADE	| ESPECIALIDADE
+	Palmares	| 20		| Enfermeiro(a)
+	Palmares	| 18		| Clínico(a) Geral
+	Palmares	| 17		| Clínico(a) Geral
+	Ribeirão	| 8		| Psicólogo(a)
+
+8. Selecione o nome do médico com a menor quantidade de atendimentos cancelados.
+	MÉDICO(A)
+	Dra. Fulana
+
+9. Selecione os nomes dos médicos com a quantidade de atendimentos cancelados acima da média de cancelamentos considerando todos os médicos, ex:
+	MÉDICO(A)
+	Dr. Fulano
+	Dr. Beltrano
+
+10. Selecione o nome do paciente, o nome da cidade, o nome do estado, a especialidade, a data do atendimento e o nome do médico que realizou o atendimento
+	PACIENTE	|	CIDADE	| ESTADO	| ESPECIALIDADE	| DATA		| MÉDICO
+   João			| Ribeirão	| PE		| Oftalmo	| 20/04/2023	| Dra. Cicrana
+   Maria		| Ribeirão	| PE		| Pediatra	| 21/04/2023	| Dr. Fulano
+
+
+
+
+
+
+
+
+
+
+
+
+
