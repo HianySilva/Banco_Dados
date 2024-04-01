@@ -1,1 +1,1 @@
-# Banco_Dados
+Este repositório está centralizado para scripts, consultas SQL, documentação e recursos relacionados a bancos de dados. Ideal para administradores, desenvolvedores e entusiastas que desejam aprimorar suas habilidades em gerenciamento de dados.
